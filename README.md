@@ -3,7 +3,9 @@
 Projet pour s'initier aux languages web
 
 Suggestion ChatGPT pour la stack à utiliser : 
-Pour développer un site web où l'on peut jouer aux échecs, il y a plusieurs technologies et outils modernes à considérer pour offrir une expérience fluide, interactive et fonctionnelle. Voici une approche détaillée, en fonction des différentes couches du projet (front-end, back-end, et autres aspects techniques) :
+Pour développer un site web où l'on peut jouer aux échecs, il y a plusieurs technologies et outils modernes
+à considérer pour offrir une expérience fluide, interactive et fonctionnelle. 
+Voici une approche détaillée, en fonction des différentes couches du projet (front-end, back-end, et autres aspects techniques) :
 
 ### 1. **Front-End** : L'interface utilisateur (UI)  
 Le front-end est crucial pour offrir une interface agréable et interactive. Voici les principales technologies et outils à utiliser :
